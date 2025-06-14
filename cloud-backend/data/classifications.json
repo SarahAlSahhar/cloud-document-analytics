@@ -1,0 +1,79 @@
+[
+  {
+    "id": "web-dev",
+    "name": "Web Development",
+    "keywords": [
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "vue",
+      "angular",
+      "node.js"
+    ]
+  },
+  {
+    "id": "mobile-dev",
+    "name": "Mobile Development",
+    "keywords": [
+      "android",
+      "ios",
+      "mobile",
+      "flutter",
+      "react native"
+    ]
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "keywords": [
+      "python",
+      "pandas",
+      "numpy",
+      "data analysis",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "ai-ml",
+    "name": "AI & Machine Learning",
+    "keywords": [
+      "artificial intelligence",
+      "neural network",
+      "tensorflow",
+      "pytorch"
+    ]
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud Computing",
+    "keywords": [
+      "aws",
+      "azure",
+      "google cloud",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "id": "database",
+    "name": "Database",
+    "keywords": [
+      "sql",
+      "mongodb",
+      "postgresql",
+      "mysql",
+      "database"
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity",
+    "keywords": [
+      "security",
+      "encryption",
+      "firewall",
+      "vulnerability"
+    ]
+  }
+]
